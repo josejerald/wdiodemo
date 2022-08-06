@@ -1,0 +1,9 @@
+{
+    "qa":{
+        "url": "https://www.saucedemo.com",
+       "user_std":"standard_user",
+       "user_lck": "locked_out_user",
+       "password": "secret_sauce"
+    }
+
+}
